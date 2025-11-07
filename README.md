@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Oi, eu sou o Lucas E. Neiva
 
-<!--
-**lucaseneiva/lucaseneiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou **desenvolvedor full-stack**, focado em criar produtos digitais com uma mistura de **tecnologia, design e propósito**.  
+Gosto de construir soluções simples, funcionais e com uma boa experiência de uso.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projetos
+
+- 🪶 **[Entrelinhas](https://github.com/lucaseneiva/entrelinhas)** — app emocional com design minimalista em tons suaves.  
+- 🔥 **[Chaminhas](https://github.com/lucaseneiva/chaminhas)** — mascote digital que te motiva a manter hábitos.  
+- 🛡️ **[ArmoredCode](https://github.com/lucaseneiva/armoredcode)** — plataforma de freelancing com Angular + Node.js.
+
+---
+
+### 💻 Tecnologias que uso
+
+**Frontend:** React / Next.js, Angular, Tailwind  
+**Backend:** Node.js, Express, Firebase, MongoDB  
+**Mobile:** Flutter  
+**Outros:** Contentful, Figma, Git, Clean Architecture
+
+---
+
+### 📫 Onde me encontrar
+
+- LinkedIn: [linkedin.com/in/lucasneiva](https://linkedin.com/in/lucasneiva)  
+- GitHub: [@lucasneiva](https://github.com/lucasneiva)
+
+---
+
+<div align="center">
+
+![visitors](https://komarev.com/ghpvc/?username=lucasneiva&color=lightgrey)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasneiva&show_icons=true&theme=default)
+
+</div>
