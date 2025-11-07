@@ -24,8 +24,8 @@ Gosto de construir soluções simples, funcionais e com uma boa experiência de 
 
 ### 📫 Onde me encontrar
 
-- LinkedIn: [linkedin.com/in/lucasneiva](https://linkedin.com/in/lucasneiva)  
-- GitHub: [@lucasneiva](https://github.com/lucasneiva)
+- LinkedIn: [linkedin.com/in/lucasneiva](https://linkedin.com/in/lucaseneiva)  
+- GitHub: [@lucaseneiva](https://github.com/lucaseneiva)
 
 ---
 
