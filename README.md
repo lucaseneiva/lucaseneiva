@@ -31,7 +31,7 @@ Gosto de construir soluções simples, funcionais e com uma boa experiência de 
 
 <div align="center">
 
-![visitors](https://komarev.com/ghpvc/?username=lucasneiva&color=lightgrey)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasneiva&show_icons=true&theme=default)
+![visitors](https://komarev.com/ghpvc/?username=lucaseneiva&color=lightgrey)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucaseneiva&show_icons=true&theme=default)
 
 </div>
