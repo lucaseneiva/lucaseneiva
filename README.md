@@ -3,6 +3,7 @@
 Sou **desenvolvedor full-stack**, focado em criar produtos digitais com uma mistura de **tecnologia, design e propósito**.  
 Gosto de construir soluções simples, funcionais e com uma boa experiência de uso.
 
+🚀 Confira meu portfólio visual: [Portfólio](https://lucaseneiva.github.io)
 ---
 
 ### 🚀 Projetos
