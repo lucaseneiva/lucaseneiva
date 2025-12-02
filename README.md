@@ -9,7 +9,7 @@ Gosto de construir soluções simples, funcionais e com uma boa experiência de 
 ### 🚀 Projetos
 
 - 🪶 **[Entrelinhas](https://github.com/lucaseneiva/entrelinhas)** — app emocional com design minimalista em tons suaves.  
-- 🔥 **[Chaminhas](https://github.com/lucaseneiva/chaminhas)** — mascote digital que te motiva a manter hábitos.
+- 🔥 **[Chaminhas](https://chaminhas.com.br)** — mascote digital que te motiva a manter hábitos.
 - 🎟️ **[Karimbei](https://github.com/lucaseneiva/karimbei/)** — app cartão fidelidade em flutter.
 - 🛡️ **[ArmoredCode](https://github.com/lucaseneiva/armoredcode)** — plataforma de freelancing com Angular + Node.js.
                       
