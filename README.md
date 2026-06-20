@@ -2,7 +2,7 @@
 
 Full Stack Developer focused on **.NET + Angular** and **React + Node.js** ecosystems.
 I build web apps, APIs, and real-time systems — currently working with C# at
-[Serie-Q](https://serieq.com.br) and building [Channelo](https://github.com/lucaseneiva/Channelo),
+[Serie-Q](https://serieq.com.br) and building [Channelo](https://github.com/lucasebneiva/Channelo),
 an open-source team chat platform.
 
 ---
